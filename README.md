@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guiomav&repo=Subscription_Tracker_API)](https://github.com/GuioMav/Subscription_Tracker_API)
+
+
+[Download resume](https://manuelmavungo.com/resume_manuel_mavungo.pdf)
