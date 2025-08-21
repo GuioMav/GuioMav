@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiomav&show_icons=true)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guiomav&repo=github-readme-stats)](https://github.com/GuioMav/Subscription_Tracker_API)
