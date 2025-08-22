@@ -162,5 +162,4 @@ Hi there 👋, I’m Manuel Mavungo. I’m a software engineer with strong exper
   </p>
 </div>
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=guiomav&label=Profile%20views&color=60598F&style=flat)
